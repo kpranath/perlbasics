@@ -3,3 +3,7 @@
 
 #This should print Hello World!!!
 print "Hello World!!!\n";
+
+=print "Multiline comment";
+this is a multiline comment!!!
+=cut
