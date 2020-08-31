@@ -7,3 +7,10 @@ print "Hello World!!!\n";
 =print "Multiline comment";
 this is a multiline comment!!!
 =cut
+
+# white spaces
+print     "Hello World!!!\n";
+
+# whitespaces will be printed as it is when they are inside quotes!!!
+print "Hello
+                World!!!\n";
